@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Main Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_list">Gallery Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_details">Details Activity</string>
+    <string name="image_size">4</string>
+    <string name="rpp">50</string>
+    <string name="consumer_key">Your 500px.com consumer key here</string>
+    <string name="no_connection">Not connected online</string>
+    <string name="enter_text">Please enter the search term</string>
+    <string name="progress_message">Loading Image</string>
+    <string name="Owner">By: </string>
+    <string name="owner_name"></string>
+    <string name="photo_title"></string>
+    <string name="progress">Loading Results...</string>
+    <string name="submit_button">Submit</string>
+    
+       
+</resources>
